@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "types": [
+            "webpack-env"
+        ],
+        "paths": {
+            "@/*": [
+                "src/*"
+            ]
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
